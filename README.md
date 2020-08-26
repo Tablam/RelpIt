@@ -4,4 +4,4 @@ This repo is to be able to run the programming language [TablaM](http://tablam.o
 
 Just click in the button:
 
-[![Run on Repl.it](https://repl.it/join/mvuebgcf-mamcx)](https://repl.it/join/mvuebgcf-mamcx)
+[![Run on Repl.it](https://repl.it/@mamcx/RelpIt)](https://repl.it/@mamcx/RelpIt?lite=true)
