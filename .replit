@@ -1,2 +1,2 @@
 language = "rust"
-run = "wget -O https://github.com/Tablam/TablaM/releases/download/v0.3.1-alpha/tablam-linux-amd64 && chmod +x tablam && ./tablam"
+run = "wget -O tablam https://github.com/Tablam/TablaM/releases/download/v0.3.1-alpha/tablam-linux-amd64 && chmod +x tablam && ./tablam"
