@@ -1,9 +1,13 @@
-# RelpIt
+Welcome to the **TablaM** online programming environment, hosted at [repl.it](https://repl.it/@mamcx/RelpIt). 
 
-This repo is to be able to run the programming language [TablaM](http://tablam.org) in the browser.
+To run **TablaM**, please hit in the green button ***"Run"***.
 
-Just visit this link:
+Follow the tutorial at [https://tablam.org/tutorial](https://tablam.org/tutorial).
 
-https://repl.it/@mamcx/RelpIt
+When  ***"Run"*** this, the interactive environment (aka: The [repl](https://en.wikipedia.org/wiki/Read–eval–print_loop)) start and expect you to enter some valid **TablaM** code.
 
-And remember to run the "Run" button at the top.
+#### Note:
+
+**TablaM** is still in *early development*, so expect things to broke! 
+
+Visit our [site](https://tablam.org) and help its development!
